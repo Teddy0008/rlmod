@@ -1,0 +1,27 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="MIT"
+[[mods]] #mandatory
+modId="rlmod" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="RealLife Mod" #mandatory
+logoFile="logo.png" #optional
+credits="I (Teddy0007) coded this, thanks to the funny fungus monkey for making the textures, Zloun for ideas and Cy4 for the modding tutorials!" #optional
+authors="Teddy0007, the funny fungus monkey, Zloun" #optional
+description='''
+Explore, Build, Mine and Craft!
+
+This mod adds a lot from the outside world!
+'''
+[[dependencies.rlmod]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[36,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.rlmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

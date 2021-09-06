@@ -1,0 +1,11 @@
+{
+	"type": "rlmod:crushing_recipe",
+	"input": {
+			"item":"rlmod:copper_ingot"
+		}
+	},
+	"output": {
+		"item":"rlmod:tin_ore",
+		"count" : 1
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "rlmod:tin_block"
+        }
+    ],
+    "result": {
+        "item": "rlmod:tin_ingot",
+        "count": 9
+    }
+}

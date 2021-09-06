@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "ITI",
+        " A "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_pickaxe"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        },
+        "T": {
+            "item": "minecraft:iron_nugget"
+        },
+        "A": {
+            "item": "minecraft:anvil"
+        }
+    },
+    "result": {
+        "item": "rlmod:crusher",
+        "count": 1
+    }
+}

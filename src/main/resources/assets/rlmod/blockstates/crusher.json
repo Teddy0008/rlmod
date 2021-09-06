@@ -1,8 +1,0 @@
-{
-	"variants": {
-		"facing=north": { "model": "rlmod:block/crusher", "y": 270 },
-		"facing=south": { "model": "rlmod:block/crusher", "y": 90 },
-		"facing=east": { "model": "rlmod:block/crusher" },
-		"facing=west": { "model": "rlmod:block/crusher", "y": 180}
-	}
-}

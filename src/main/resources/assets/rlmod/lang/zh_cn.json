@@ -1,0 +1,13 @@
+// Chinese
+{
+	// Items
+	"item.rlmod.olive": "\u6a44\u6984",
+	"item.rlmod.fries": "\u85af\u6761",
+	"item.rlmod.box_for_fries": "\u85af\u6761\u76d2",
+	"item.rlmod.fries_in_box": "\u76d2\u5b50\u91cc\u7684\u85af\u6761",
+	// Blocks
+	"block.rlmod.copper_ore": "\u94dc\u77ff",
+	"block.rlmod.tin_ore": "\u9521\u77ff",
+	// ItemGroups
+	"itemGroup.itemgroup": "\u73fe\u5be6\u751f\u6d3b"
+}

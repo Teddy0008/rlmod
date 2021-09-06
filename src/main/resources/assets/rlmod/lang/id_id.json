@@ -1,0 +1,13 @@
+// Indonesian
+{
+	// Items
+	"item.rlmod.olive": "Zaitun",
+	"item.rlmod.fries": "kentang goreng",
+	"item.rlmod.box_for_fries": "kotak untuk kentang goreng",
+	"item.rlmod.fries_in_box": "Kentang goreng dalam kotak",
+	// Blocks
+	"block.rlmod.copper_ore": "Bijih tembaga",
+	"block.rlmod.tin_ore": "bijih timah",
+	// ItemGroups
+	"itemGroup.itemgroup": "Kehidupan nyata"
+}

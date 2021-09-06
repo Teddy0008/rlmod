@@ -1,0 +1,13 @@
+// Spanish
+{
+	// Items
+	"item.rlmod.olive": "Aceituna",
+	"item.rlmod.fries": "papas fritas",
+	"item.rlmod.box_for_fries": "caja para papas fritas",
+	"item.rlmod.fries_in_box": "Papas fritas en una caja",
+	// Blocks
+	"block.rlmod.copper_ore": "Mina de cobre",
+	"block.rlmod.tin_ore": "Mineral de esta\u00f1o",
+	// ItemGroups
+	"itemGroup.itemgroup": "Vida real"
+}

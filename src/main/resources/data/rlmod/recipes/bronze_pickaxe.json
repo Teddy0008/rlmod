@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bbb",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "b": {
+            "item": "rlmod:bronze_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "rlmod:bronze_pickaxe",
+        "count": 1
+    }
+}

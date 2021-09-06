@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "rlmod:block/tin_block" }
+	}
+}

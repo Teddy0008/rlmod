@@ -1,1 +1,0 @@
-X=MsgBox("Done compiling",0+64,"Mod compiling")
